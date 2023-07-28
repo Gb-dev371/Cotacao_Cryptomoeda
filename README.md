@@ -11,6 +11,9 @@ enquanto a segunda parte é responsável por desenvolver a interface da aplicaç
 BIBLIOTECAS UTILIZADAS: 
 requests e tkinter
 
+Para instalar a biblioteca requests, digite no terminal:
+pip install requests
+
 ---------------------------------------------------------------------------------------------
 
 API UTILIZADA:
