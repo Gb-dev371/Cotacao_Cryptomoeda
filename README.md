@@ -9,8 +9,7 @@ enquanto a segunda parte é responsável por desenvolver a interface da aplicaç
 ---------------------------------------------------------------------------------------------
 
 BIBLIOTECAS UTILIZADAS: 
-requests
-tkinter
+requests e tkinter
 
 ---------------------------------------------------------------------------------------------
 
