@@ -31,4 +31,5 @@ A API da cryptocompare disponibiliza as cotações das cryptomoedas de diferente
 ---------------------------------------------------------------------------------------------
 
 INTERFACE:
-![73124065-2798-4092-8731-bfdff30899f1](https://github.com/Gb-dev371/Cotacao_Cryptomoeda/assets/116456573/064a5c66-9529-458b-9eeb-316813aa16e2)
+![0534a5ad-5bec-4972-8485-c4cc4a3005d6](https://github.com/Gb-dev371/Cotacao_Cryptomoeda/assets/116456573/4e195ddb-6035-4653-b0ea-c697ceb3e1a5)
+
